@@ -4,7 +4,7 @@
 
 ---
 
-# 📌 REQUIRED OUTPUT (Same for both assignments)
+# 📌 REQUIRED OUTPUT
 
 The system must produce the same behavior:
 
