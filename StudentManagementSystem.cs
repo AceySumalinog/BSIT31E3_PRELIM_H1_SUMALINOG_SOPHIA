@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
- 
+
+
 class Student
 {
     private string Name;
