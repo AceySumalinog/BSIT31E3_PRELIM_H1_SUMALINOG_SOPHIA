@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
  
-// Student class — replaced public with private, kept string as type (cannot change type)
 class Student
 {
     private string Name;
